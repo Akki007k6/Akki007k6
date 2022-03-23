@@ -13,13 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">A passionate developer from India</h3>
+<-->
 
+<h1 align="center">
+  <a href="#"><img width="25%" height="25%" class="centerImage" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="175px"/></a><br>
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akash</h1>
+<h3 align="center">A passionate developer from India</h3>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akki007k6&label=Profile%20views&color=0e75b6&style=flat" alt="akki007k6" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akki007k6" alt="akki007k6" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akki007k6" alt="akki007k6" /></a> </p><br>
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
