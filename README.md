@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <-->
 
 <h1 align="center">
-  <a href="#"><img width="25%" height="25%" class="centerImage" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="175px"/></a><br>
+  <a href="#"><img width="25%" height="25%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="175px"/></a><br>
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akash</h1>
 <h3 align="center">A passionate developer from India</h3>
 <br>
